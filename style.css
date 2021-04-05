@@ -7,6 +7,7 @@ body {
 }
 
 .hidden {
+  visibility: hidden;
   margin: 0;
   height: 1px;
   width: 1px;
