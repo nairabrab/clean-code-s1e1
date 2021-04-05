@@ -23,7 +23,7 @@ body {
   width: 100%;
 }
 
-.intro .eisenhower-matrix-methodology-link {
+.intro .methodology-link {
   font-family: fantasy, cursive;
 }
 
@@ -34,13 +34,13 @@ body {
   }
 
 }
-.centered-main-page-element {
+.todo-list {
   display: block;
   width: 500px;
   margin: 0 auto 0;
 }
 
-#top-section-for-adding-element-to-list {
+#add-task-section {
   padding: 16px 0;
 }
 
